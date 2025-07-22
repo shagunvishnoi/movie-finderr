@@ -38,9 +38,9 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <div className="space-y-2 text-gray-400">
-              <p>hello@moviefinder.com</p>
-              <p>+1 (555) 123-4567</p>
-              <p>123 Movie Street<br />Hollywood, CA 90210</p>
+              <p>shagun moti@moviefinder.com</p>
+              <p>(+91)847340262</p>
+              <p>123 Movie Street<br />Bollywood, CA 90210</p>
             </div>
           </div>
         </div>
