@@ -1,4 +1,6 @@
+
 import React from 'react';
+
 import Hero from '../components/home/Hero';
 import MovieCarousel from '../components/home/MovieCarousel';
 import TestimonialCarousel from '../components/home/TestimonialCarousel';
